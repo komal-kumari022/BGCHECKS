@@ -6,6 +6,7 @@ import ReportPersonal from "./pages/ReportPersonal";
 import AdditionalScreen from "./pages/AdditionalScreen";
 import AddApplicants from "./pages/AddApplicants";
 import AccountDetails from "./pages/AccountDetails";
+import "./index.css";
 
 const App = () => {
   const steps = ["Select a Report & Add-Ons", "Add Applicants", "Account Details"];
